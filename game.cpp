@@ -3,6 +3,8 @@
 #include <ctime>
 #include <limits>
 
+
+// simple c++ game just to practice
 using namespace std;
 
 struct Hacker {
